@@ -5,6 +5,7 @@
 //4. setInterval: 2번째 인자(1000:1초) 시간마다 1번째 인자 함수 호출
 //5. 삼항 연산자: 10보다 작으면 해당 형식으로 출력
 
+
 const clockContainer = document.querySelector(".js-clock");
 const clockTitle = clockContainer.querySelector("h1");
 
