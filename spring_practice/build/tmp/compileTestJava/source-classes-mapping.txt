@@ -1,0 +1,2 @@
+home/hellospring/HelloSpringApplicationTests.java
+ home.hellospring.HelloSpringApplicationTests
